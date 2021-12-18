@@ -1,8 +1,7 @@
 # Zuneify
-
-![Main chat screen](https://imgur.com/a/aedeSV4)
-![Member list](https://imgur.com/a/WdxJW9k)
-![Guild and channel list](https://imgur.com/a/Vj8T7qx)
+![Guild and channel list](/preview/guild-screen.jpg)
+![Main chat screen](/preview/main-screen.jpg)
+![Member list](preview/member-screen.jpg)
 
 **Discord meets the Social.** A theme inspired by the revolutionary UI design of the Zune.
 
