@@ -1,11 +1,12 @@
 # Zuneify
-![Guild and channel list](/preview/guild-screen.jpg)
-![Main chat screen](/preview/main-screen.jpg)
-![Member list](preview/member-screen.jpg)
+![Photo](/preview/Zuneify.png)
+
 
 **Discord meets the Social.** A theme inspired by the revolutionary UI design of the Zune.
 
-This is a full transparency theme and includes fonts.
+* Full transparency
+* Fonts included
+* Dark mode only
 
 ## Recommended Plugins
 * [Square Avatars](https://github.com/Juby210/Aliucord-plugins) by Juby210#0577
