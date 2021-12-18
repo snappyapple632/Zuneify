@@ -1,4 +1,4 @@
-# Zuneify
+# Zuneify - an Aliucord theme
 ![Photo](/preview/Zuneify.png)
 
 
