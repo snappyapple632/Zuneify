@@ -2,22 +2,22 @@
     "manifest": {
         "author": "snappyapple632#0632",
         "name": "Zuneify",
-        "version": "1.0.0",
+        "version": "1.0.1",
 		"licence": "GPLv3",
 		"updater": "https:\/\/raw.githubusercontent.com\/snappyapple632\/Zuneify\/main\/Zuneify.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/882021156255858778\/887869761806037022\/zune_mobile_comp.png",
+        "url": "https:\/\/github.com\/snappyapple632\/Zuneify\/blob\/80f3eee2ff16c18ac348887954b7c2ecc5681a53\/zune_mobile_comp.png",
         "overlay_alpha": 0
     },
     "fonts": {
-        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021293178900530\/ZegoeCapsBold.ttf",
-        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021300661526578\/ZegoeUI-U.ttf",
-        "roboto_medium_numbers": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/885397600348565524\/MetalOnMetal.TTF",
-        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021275558617128\/ZegoeAltBold.ttf",
-        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021306290298910\/ZegoeUI-UBold.ttf",
-        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021275558617128\/ZegoeAltBold.ttf",
-        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/882021156255858778\/882021300661526578\/ZegoeUI-U.ttf"
+        "ginto_bold": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeCapsBold.ttf",
+        "ginto_medium": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeUI-U.ttf",
+        "roboto_medium_numbers": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeCapsBold.ttf",
+        "ginto_regular": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeAltBold.ttf",
+        "whitney_bold": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeUI-UBold.ttf",
+        "whitney_semibold": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeAltBold.ttf",
+        "whitney_medium": "https:\/\/github.com\/snappyapple632\/Zuneify\/raw\/main\/fonts\/ZegoeUI-U.ttf"
     },
     "simple_colors": {
         "statusbar": 0,
